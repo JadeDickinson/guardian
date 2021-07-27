@@ -34,3 +34,6 @@ Trigger events - changes or trends observed in Customer Data.
 Create value
 Here's a thing you've done and here's your insurance needs.
 
+Activation journey
+Introduce proposition
+Assuage any customer concerns about privacy/buiness data/change to existing purchase.
